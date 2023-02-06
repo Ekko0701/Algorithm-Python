@@ -6,3 +6,6 @@ for i in range(len(arr)):
         arrMin = arr[i]
 
 print(arrMin)
+
+## arrMin을 arr[0]으로 초기화하고
+## (1, len(arr)) 순회하는 방법도 있다.
