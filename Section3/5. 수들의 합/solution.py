@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open("/Users/ekko/Desktop/Algorithm-Python/Section3/5. 수들의 합/input.txt", "r")
+sys.stdin = open("input.txt", "r")
 
 n, m = map(int, input().split())
 a = list(map(int, input().split()))
